@@ -1,7 +1,7 @@
 # php-intermedio-UTN
 
 Consigna
-La evaluación está basada en las Evaluaciones de las Unidades 2 y 3 - Módulo 2.
+
 
 El archivo mostrar_contenido.php deberá tener una botonera que permita realizar, finalizar y ver pedidos. Las opciones serán: "Realizar pedido", "Ver mis pedidos", "Finalizar pedidos".
 
